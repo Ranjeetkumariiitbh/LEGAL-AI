@@ -1,0 +1,7 @@
+(
+echo .venv/
+echo __pycache__/
+echo *.pyc
+echo .env
+echo data/chroma_db/
+) > .gitignore
